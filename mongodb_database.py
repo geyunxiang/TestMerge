@@ -5,6 +5,8 @@ db server -> database -> collection -> record.
 
 add 1
 
+add 2
+
 The record looks like this:
 static
 {
