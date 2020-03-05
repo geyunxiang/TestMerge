@@ -4,6 +4,8 @@ A Redis database would be created on-the-fly and (possibly)
 destroyed after usage.
 
 add 2
+
+add 3
 """
 
 import redis
