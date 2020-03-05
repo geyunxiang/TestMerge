@@ -6,6 +6,8 @@ destroyed after usage.
 add 2
 
 add 3
+
+add 4
 """
 
 import redis
