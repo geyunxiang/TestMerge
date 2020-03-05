@@ -2,6 +2,8 @@
 Redis is a high-speed high-performance cache database.
 A Redis database would be created on-the-fly and (possibly)
 destroyed after usage.
+
+add 2
 """
 
 import redis
